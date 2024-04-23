@@ -1,2 +1,1 @@
-# .github
-Proyecto VI : Agencia De Viajes
+# Proyecto VI : Agencia De Viajes
